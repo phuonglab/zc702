@@ -3,4 +3,5 @@ Log file for zc702 board
 + launch xilin EDK in ubuntu : 
   -go to the directory where installed the tool. e.g   cd  /opt/EDK/bin/lin
   - type ./xsdk
++ use telnet and ftp to connect board
 +
