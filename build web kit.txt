@@ -3,3 +3,4 @@ build webkit lib and arora web browser for zc702
 *==================================================================*
 #build webkit
 +
+http://webkit.sed.hu/blog/20100419/webkitgtk-cross-compilation-arm
