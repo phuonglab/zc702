@@ -4,4 +4,7 @@ Log file for zc702 board
   -go to the directory where installed the tool. e.g   cd  /opt/EDK/bin/lin
   - type ./xsdk
 + use telnet and ftp to connect board
-+
++ edit PATH file : 
+  -gedit ~/.bashrc. add export
+  -export CROSS_COMPILE=arm-xilinx-linux-gnueabi-
+  -export PATH=/opt/zc702/toolchain/bin:$PATH
