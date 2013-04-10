@@ -5,3 +5,4 @@ build webkit lib and arora web browser for zc702
 +
 http://webkit.sed.hu/blog/20100419/webkitgtk-cross-compilation-arm
 http://webkit.sed.hu/blog/20100427/qtwebkit-cross-compilation-gcc-arm-linux
+http://trac.webkit.org/wiki/SettingUpDevelopmentEnvironmentForN9
