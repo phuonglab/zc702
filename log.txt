@@ -1,5 +1,6 @@
 Log file for zc702 board
 =======================================================
++ Ref linkk : http://www.wiki.xilinx.com/Zynq+Base+TRD+14.2/http://www.wiki.xilinx.com/Zynq+Release+14.2
 + launch xilin EDK in ubuntu : 
   -go to the directory where installed the tool. e.g   cd  /opt/EDK/bin/lin
   - type ./xsdk
